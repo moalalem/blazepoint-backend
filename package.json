@@ -1,0 +1,14 @@
+{
+  "name": "blazepoint-backend",
+  "version": "1.0.0",
+  "description": "Backend API for BlazePoint",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "BlazePoint",
+  "license": "MIT"
+}
